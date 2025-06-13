@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: 6FF2Z5NQYA9F36YLPJM9DHMOGAFFX45O -->
+
 # QRCode_Mobile
 QR Code Scanner 
 
